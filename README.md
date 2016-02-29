@@ -1,2 +1,2 @@
 # moment_tensor.m
-Seismic moment tensor analysis, 
+Create multicomponent (3C) seismic data from given Focal mechanism (moment tensor)
